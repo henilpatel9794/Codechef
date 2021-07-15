@@ -1,3 +1,4 @@
+#BEGINNER
 #1 ATM
 
 x,y=input().split()
